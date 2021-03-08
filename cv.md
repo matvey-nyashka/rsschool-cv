@@ -36,3 +36,6 @@ ___
     Specialization: Information Systems and Technologies
 
 ___
+### English
+A2
+___
